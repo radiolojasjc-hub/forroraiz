@@ -1,6 +1,26 @@
 [
-  {"id": 1, "title": "NATUREZA-DAS-COISAS", "artist": "Waldonys-O-Cantado", "src": "ABERTURA-NATUREZA-DAS-COISAS-Waldonys-O-Cantador-de-Historias.mp3", "genero": "FORRÓ RAIZ", "tipo": "normal"},
-  {"id": 2, "title": "Abri_a_porta_Seu_Domingos", "artist": "Mirle", "src": "Abri_a_porta_Seu_Domingos_por_Mirle.mp3", "genero": "FORRÓ RAIZ", "tipo": "normal"}
-  
+  {"id": 1, "title": "aldonys e Santana Cantad", "artist": "NATUREZA-DAS-COISAS", "src": "ABERTURA-NATUREZA-DAS-COISAS-Waldonys-O-Cantador-de-Historias.mp3", "genero": "FORRÓ RAIZ", "tipo": "normal"},
+  {"id": 2, "title": "Mirle", "artist": "Abri_a_porta_Seu_Domingos", "src": "Abri_a_porta_Seu_Domingos_por_Mirle.mp3", "genero": "FORRÓ RAIZ", "tipo": "normal"}
+  {"id":3,"artist":"Mastruz com Leite","title":"Saga de um Vaqueiro","genero":"FORRÓ RAIZ","src":"SagadeumVaqueiro_MastruzcomLeite.mp3"},
+{"id":4,"artist":"Waldonys","title":"Se For Amor Waldonys VERSO DO UNIVERSO Vol2","genero":"FORRÓ RAIZ","src":"SeForAmorWaldonysVERSODOUNIVERSOVol2_Waldonys.mp3"},
+{"id":5,"artist":"WALDONYS","title":"Sinônimos","genero":"FORRÓ RAIZ","src":"Sinnimos_WALDONYS.mp3"},
+{"id":6,"artist":"Lara Améia","title":"Tareco e Mariola Pra vc voltar pra mim","genero":"FORRÓ RAIZ","src":"TarecoeMariolaPravcvoltarpramim_LaraAmia.mp3"},
+{"id":7,"artist":"TRÊS NORDESTINOS","title":"VIDA DE VIAJANTE","genero":"FORRÓ RAIZ","src":"VIDADEVIAJANTE_TRSNORDESTINOS.mp3"},
+{"id":8,"artist":"Mastruz com Leite","title":"Onde canta o sabia","genero":"FORRÓ RAIZ","src":"Ondecantaosabia_MastruzcomLeite.mp3"},
+{"id":9,"artist":"Chico Pessoa","title":"Canta o Sabiá","genero":"FORRÓ RAIZ","src":"CantaoSabi_ChicoPessoa.mp3"},
+{"id":10,"artist":"CHICO PESSOA","title":"Os Dez Mandamentos","genero":"FORRÓ RAIZ","src":"OsDezMandamentos_CHICOPESSOA.mp3"},
+{"id":11,"artist":"Waldonys","title":"Outra Vez","genero":"FORRÓ RAIZ","src":"OutraVez_Waldonys.mp3"},
+{"id":12,"artist":"Santanna o Cantador","title":"Por Onde Anda Vc","genero":"FORRÓ RAIZ","src":"PorOndeAndaVc_SantannaoCantador.mp3"},
+{"id":13,"artist":"Pout-Pourri Jo","title":"o Gomes e Joo Bandeira","genero":"FORRÓ RAIZ","src":"oGomeseJooBandeira_Pout-PourriJo.mp3"},
+{"id":14,"artist":"CHICO-PESSOA","title":"Brincar de Amar","genero":"FORRÓ RAIZ","src":"BrincardeAmar_CHICO-PESSOA.mp3"},
+{"id":15,"artist":"Lara-Amelia","title":"Carta Branca Cristal Quebrado Me Usa","genero":"FORRÓ RAIZ","src":"CartaBrancaCristalQuebradoMeUsa_Lara-Amelia.mp3"},
+{"id":16,"artist":"Solange Almeida Flavio Jose","title":"Dois Rubis","genero":"FORRÓ RAIZ","src":"DoisRubis_SolangeAlmeidaFlavioJose.mp3"},
+{"id":17,"artist":"Waldonys","title":"Final Dos Tempos","genero":"FORRÓ RAIZ","src":"FinalDosTempos_Waldonys.mp3"},
+{"id":18,"artist":"Maciel Melo","title":"Caboclo Sonhador","genero":"FORRÓ RAIZ","src":"CabocloSonhador_MacielMelo.mp3"},
+{"id":19,"artist":"Ton Oliveira e Dorgival Dantas","title":"Amor com café","genero":"FORRÓ RAIZ","src":"Amorcomcaf_TonOliveiraeDorgivalDantas.mp3"},
+{"id":20,"artist":"WALDONYS","title":"Amor Com Café","genero":"FORRÓ RAIZ","src":"AmorComCaf_WALDONYS.mp3"},
+{"id":21,"artist":"Santanna-O-Cantador","title":"Anjo Querubim","genero":"FORRÓ RAIZ","src":"AnjoQuerubim_Santanna-O-Cantador.mp3"},
+{"id":22,"artist":"Toca do Vale","title":"Boiadeiro Cigarro de Palha Rei do Baralho Hora do Adeus","genero":"FORRÓ RAIZ","src":"BoiadeiroCigarrodePalhaReidoBaralhoHoradoAdeus_TocadoVale.mp3"}
+]
   
 ]
